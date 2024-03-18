@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   path:
   http:
+  provider:
   flutter_image_slideshow:
   fan_carousel_image_slider:
 
